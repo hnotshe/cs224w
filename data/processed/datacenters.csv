@@ -1,0 +1,57 @@
+BAL_AUTH_SUBREGION_CODE,BAL_AUTH_SUBREGION_NAME,BAL_AUTH_ABBR,BAL_AUTH_NAME,TOT_ENERGY_DEMAND_BA_MW,QTY_DATA_CENTERS,TOT_POWER_CAPACITY_MW,UPDATED_AT
+SDGE,San Diego Gas and Electric - CISO,CAISO,California Independent System Operator,2341.2916666666665,10,18.944599999999998,2025-11-03
+SCE,Southern California Edison - CISO,CAISO,California Independent System Operator,12593.583333333334,67,1039.5799499999998,2025-11-03
+PGAE,Pacific Gas and Electric,CAISO,California Independent System Operator,10358.75,111,1469.28595,2025-11-03
+COAS,ERCO - Coast,ERCOT,Electric Reliability Council of Texas,11607.833333333334,30,473.6807,2025-11-03
+NCEN,ERCO - North Central,ERCOT,Electric Reliability Council of Texas,12365.791666666666,95,2277.6891,2025-11-03
+FWES,ERCO - Far West,ERCOT,Electric Reliability Council of Texas,7731.5,6,369.99269999999996,2025-11-03
+EAST,ERCO - East,ERCOT,Electric Reliability Council of Texas,1559.875,2,8.33045,2025-11-03
+SCEN,ERCO - South Central,ERCOT,Electric Reliability Council of Texas,7229.333333333333,49,1250.8278500000004,2025-11-03
+SOUT,ERCO - South,ERCOT,Electric Reliability Council of Texas,3763.5,7,4.600199999999999,2025-11-03
+NRTH,ERCO - North,ERCOT,Electric Reliability Council of Texas,1948.0,1,6.0,2025-11-03
+4008,ISNE - Northeast Mass.,ISO-NE,Independent System Operator - New England,2332.4166666666665,16,102.54384999999999,2025-11-03
+4001,ISNE - Maine,ISO-NE,Independent System Operator - New England,1107.0,4,5.0,2025-11-03
+4003,ISNE - Vermont,ISO-NE,Independent System Operator - New England,520.5416666666666,1,,2025-11-03
+4002,ISNE - New Hampshire,ISO-NE,Independent System Operator - New England,1151.375,6,1.4412999999999994,2025-11-03
+4006,ISNE - Southeast Mass.,ISO-NE,Independent System Operator - New England,1327.125,3,40.0,2025-11-03
+4007,ISNE - Western/Central Mass.,ISO-NE,Independent System Operator - New England,1598.75,4,21.73705,2025-11-03
+4005,ISNE - Rhode Island,ISO-NE,Independent System Operator - New England,733.9583333333334,3,2.25,2025-11-03
+4004,ISNE - Connecticut,ISO-NE,Independent System Operator - New England,2563.8333333333335,7,53.5032,2025-11-03
+0027,Zones 2 and 7 - MISO,MISO,Midcontinent Independent System Operator,15234.458333333334,44,235.4715,2025-11-03
+0006,Zone 6 - MISO,MISO,Midcontinent Independent System Operator,8598.083333333334,24,509.61365,2025-11-03
+0035,Zones 3 and 5 - MISO,MISO,Midcontinent Independent System Operator,8994.375,69,2494.143846236559,2025-11-03
+8910,"Zones 8, 9 and 10 - MISO",MISO,Midcontinent Independent System Operator,16207.416666666666,18,109.17219999999999,2025-11-03
+0001,Zone 1 - MISO,MISO,Midcontinent Independent System Operator,9956.75,33,401.101,2025-11-03
+ZONH & ZONI,Millwood & Dunwoodie - NYIS,NYISO,New York Independent System Operator,787.9583333333334,4,33.21119999999999,2025-11-03
+ZONB,Genesee - NYIS,NYISO,New York Independent System Operator,931.0833333333334,3,2.9163999999999994,2025-11-03
+ZONG,Hudson Valley - NYIS,NYISO,New York Independent System Operator,910.75,1,10.0,2025-11-03
+ZONK,Long Island - NYIS,NYISO,New York Independent System Operator,1764.625,1,6.0,2025-11-03
+ZONF,Capital - NYIS,NYISO,New York Independent System Operator,1121.625,11,13.5962,2025-11-03
+ZONA,West - NYIS,NYISO,New York Independent System Operator,1483.8333333333333,6,7.926599999999997,2025-11-03
+ZONJ,New York City - NYIS,NYISO,New York Independent System Operator,4658.0,16,141.2023,2025-11-03
+ATSI,"American Transmission Systems, Inc. zone - PJM",PJM,PJM Interconnection,7020.666666666667,10,20.41825,2025-11-03
+DUQ,Duquesne Lighting Company zone - PJM,PJM,PJM Interconnection,1273.2083333333333,12,24.9066,2025-11-03
+PL,Pennsylvania Power zone - PJM,PJM,PJM Interconnection,4029.0,1,67.5,2025-11-03
+PEP,Potomac Electric Power zone - PJM,PJM,PJM Interconnection,2675.375,6,18.747,2025-11-03
+DEOK,Duke Energy Ohio/Kentucky zone  - PJM,PJM,PJM Interconnection,2695.0833333333335,16,72.95925,2025-11-03
+PS,Public Service Electric & Gas of New Jersey zone - PJM,PJM,PJM Interconnection,4212.583333333333,38,498.48600000000005,2025-11-03
+DPL,Delmarva Power null zone - PJM,PJM,PJM Interconnection,1640.875,6,17.4699,2025-11-03
+AP,Allegheny Power zone - PJM,PJM,PJM Interconnection,5236.75,4,22.0,2025-11-03
+CE,Commonwealth Edison zone - PJM,PJM,PJM Interconnection,9642.875,78,2355.5639499999997,2025-11-03
+EKPC,East Kentucky Power Cooperative zone - PJM,PJM,PJM Interconnection,1595.0833333333333,9,19.212949999999996,2025-11-03
+BC,Baltimore Gas null zone - PJM,PJM,PJM Interconnection,2804.3333333333335,11,43.20710000000001,2025-11-03
+AEP,American Electric Power zone - PJM,PJM,PJM Interconnection,15520.75,70,2343.4563000000007,2025-11-03
+PE,PECO Energy zone - PJM,PJM,PJM Interconnection,3671.4166666666665,10,63.1792,2025-11-03
+DOM,Dominion Virginia Power zone - PJM,PJM,PJM Interconnection,13529.083333333334,316,10605.500682828277,2025-11-03
+DAY,Dayton Power null zone - PJM,PJM,PJM Interconnection,1865.9166666666667,12,542.5,2025-11-03
+ME,Metropolitan Edison zone - PJM,PJM,PJM Interconnection,1568.75,11,60.100649999999995,2025-11-03
+RECO,Rockland Electric (East) zone - PJM,PJM,PJM Interconnection,150.45833333333334,10,104.8881,2025-11-03
+SPS,Southwestern Public Service Company - SWPP,SPP,Southwest Power Pool,3950.9583333333335,2,14.957900000000004,2025-11-03
+OKGE,Oklahoma Gas and Electric Co. - SWPP,SPP,Southwest Power Pool,3769.25,11,33.16225,2025-11-03
+SPRM,City of Springfield - SWPP,SPP,Southwest Power Pool,288.5416666666667,1,6.0,2025-11-03
+INDN,Independence Power - SWPP,SPP,Southwest Power Pool,88.25,7,27.64575,2025-11-03
+LES,Lincoln Electric System - SWPP,SPP,Southwest Power Pool,327.4583333333333,3,88.425,2025-11-03
+WR,Westar Energy - SWPP,SPP,Southwest Power Pool,2892.4166666666665,8,38.3018,2025-11-03
+GRDA,Grand River Dam Authority - SWPP,SPP,Southwest Power Pool,811.4166666666666,11,507.6049999999999,2025-11-03
+MPS,KCP&L Greater Missouri Operations - SWPP,SPP,Southwest Power Pool,856.75,2,4.462100000000001,2025-11-03
+OPPD,Omaha Public Power District - SWPP,SPP,Southwest Power Pool,1684.5833333333333,23,815.8385,2025-11-03
