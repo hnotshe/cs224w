@@ -50,7 +50,9 @@ else:
         counties_gdf = gpd.read_file(shp_files[0])
     else:
         raise FileNotFoundError(f"Could not find {shapefile_name} or any .shp file after extraction")
-
+counties_gdf = gpd.read_file('cb_2024_us_county_500k.shp')
+print(counties_gdf.columns.tolist())
+print(counties_gdf.head())
 # Extract basic county info
 counties = pd.DataFrame({
     'county_id': counties_gdf['GEOID'].astype(str),
@@ -58,6 +60,7 @@ counties = pd.DataFrame({
     'state_fips': counties_gdf['STATEFP'].astype(str),
     'latitude': counties_gdf.geometry.centroid.y,
     'longitude': counties_gdf.geometry.centroid.x,
+    'land_area_sqm': counties_gdf['ALAND'].astype(float),
 })
 
 print(f"✓ Loaded {len(counties)} US counties")
